@@ -42,11 +42,6 @@ Tools Used
 UI Approach
 Minimalist chat UI powered by React. AI-first experience. Agent response drives user engagement instead of traditional feeds.
 
-Visuals
-Include:
-	•	Architecture diagram
-	•	Agent screenshot (chat interface)
-
 
 
 SETUP :
